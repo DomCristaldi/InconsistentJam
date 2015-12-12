@@ -1,0 +1,30 @@
+﻿[2015.12.12-20.57.28:514][  0]Log file open, 12/12/15 15:57:28
+[2015.12.12-20.57.28:514][  0]LogInit:Display: Running engine for game: InconsistentJam_game
+[2015.12.12-20.57.28:514][  0]LogPlatformFile: Not using cached read wrapper
+[2015.12.12-20.57.28:514][  0]LogInit:Display: RandInit(1790042363) SRandInit(1790042365).
+[2015.12.12-20.57.28:514][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads.
+[2015.12.12-20.57.28:514][  0]LogStats: Stats thread started at 0.073555
+[2015.12.12-20.57.28:514][  0]LogInit:Warning: Incompatible or missing module: UE4Editor-InconsistentJam_game.dll
+[2015.12.12-20.57.30:474][  0]Running C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/DotNET/UnrealBuildTool.exe InconsistentJam_game Development Win64 -project="C:/Users/Dom/Documents/GitRepositories/InconsistentJam/InconsistentJam_game/InconsistentJam_game.uproject" -rocket -editorrecompile -progress -noubtmakefiles -2015
+[2015.12.12-20.57.33:576][  0]@progress push 5%
+[2015.12.12-20.57.34:276][  0]@progress pop
+[2015.12.12-20.57.34:376][  0]ERROR: Windows SDK v8.1 must be installed in order to build this target.
+[2015.12.12-20.57.34:788][  0]LogInit:Warning: Still incompatible or missing module: UE4Editor-InconsistentJam_game.dll
+[2015.12.12-20.57.37:935][  0]LogExit: Preparing to exit.
+[2015.12.12-20.57.37:935][  0]LogModuleManager: Shutting down and abandoning module DesktopPlatform (15)
+[2015.12.12-20.57.37:935][  0]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.12.12-20.57.37:936][  0]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.12.12-20.57.37:936][  0]LogExit: Exiting.
+[2015.12.12-20.57.37:938][  0]Log file closed, 12/12/15 15:57:37

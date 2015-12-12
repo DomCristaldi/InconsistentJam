@@ -1,0 +1,21 @@
+﻿Build started 12/12/2015 5:23:35 PM.
+     1>Project "C:\Users\Dom\Documents\GitRepositories\InconsistentJam\InconsistentJam_game\Intermediate\ProjectFiles\InconsistentJam_game.vcxproj" on node 2 (Build target(s)).
+     1>Build:
+         "C:\Program Files (x86)\Epic Games\4.10\Engine\Build\BatchFiles\Build.bat" InconsistentJam_gameEditor Win64 Development "C:\Users\Dom\Documents\GitRepositories\InconsistentJam\InconsistentJam_game\InconsistentJam_game.uproject" -rocket -waitmutex -2015
+         Creating makefile for hot reloading InconsistentJam_gameEditor (game project files are newer)
+         Compiling game modules for hot reload
+         Parsing headers for InconsistentJam_gameEditor
+           Running UnrealHeaderTool "C:\Users\Dom\Documents\GitRepositories\InconsistentJam\InconsistentJam_game\InconsistentJam_game.uproject" "C:\Users\Dom\Documents\GitRepositories\InconsistentJam\InconsistentJam_game\Intermediate\Build\Win64\InconsistentJam_gameEditor\Development\UnrealHeaderTool.manifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -rocket -installed
+         Reflection code generated for InconsistentJam_gameEditor in 7.0319729 seconds
+         Performing 3 actions (4 in parallel)
+         InconsistentJam_game.generated.cpp
+         MyPlayerController.cpp
+         [3/3] Link UE4Editor-InconsistentJam_game-3832.dll
+            Creating library C:\Users\Dom\Documents\GitRepositories\InconsistentJam\InconsistentJam_game\Intermediate/Build/Win64\UE4Editor\Development\UE4Editor-InconsistentJam_game-3832.lib and object C:\Users\Dom\Documents\GitRepositories\InconsistentJam\InconsistentJam_game\Intermediate/Build/Win64\UE4Editor\Development\UE4Editor-InconsistentJam_game-3832.exp
+         -------- End Detailed Actions Stats -----------------------------------------------------------
+         Total build time: 14.66 seconds
+     1>Done Building Project "C:\Users\Dom\Documents\GitRepositories\InconsistentJam\InconsistentJam_game\Intermediate\ProjectFiles\InconsistentJam_game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.99

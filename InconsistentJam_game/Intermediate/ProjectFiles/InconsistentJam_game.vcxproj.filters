@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\InconsistentJam_game.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{01D06F30-AFB9-4C5F-95B5-03DB8F5FBF07}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\InconsistentJam_game.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\InconsistentJam_gameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{C4864353-CAE9-445B-86B6-83DA23717CC0}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\InconsistentJam_game">
+			<UniqueIdentifier>{FC75C91C-0671-46C8-921E-1C388B2F476A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\InconsistentJam_game\InconsistentJam_game.Build.cs">
+			<Filter>Source\InconsistentJam_game</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\InconsistentJam_game\InconsistentJam_game.cpp">
+			<Filter>Source\InconsistentJam_game</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\InconsistentJam_game\InconsistentJam_game.h">
+			<Filter>Source\InconsistentJam_game</Filter>
+		</ClInclude >
+		<Filter Include="Source\InconsistentJam_game\Private">
+			<UniqueIdentifier>{742CF737-A75C-408A-A0B3-642CECE83ABC}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\InconsistentJam_game\Private\ActorController.cpp">
+			<Filter>Source\InconsistentJam_game\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\InconsistentJam_game\Private\MyPlayerController.cpp">
+			<Filter>Source\InconsistentJam_game\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\InconsistentJam_game\Public">
+			<UniqueIdentifier>{829D9262-2122-4B39-9591-AA74FDCB6072}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\InconsistentJam_game\Public\ActorController.h">
+			<Filter>Source\InconsistentJam_game\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\InconsistentJam_game\Public\MyPlayerController.h">
+			<Filter>Source\InconsistentJam_game\Public</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
